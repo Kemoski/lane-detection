@@ -1,0 +1,16 @@
+# Test videolari (boyut + telif nedeniyle repoya dahil degil)
+*.mp4
+*.avi
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
